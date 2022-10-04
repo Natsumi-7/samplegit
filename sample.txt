@@ -1,0 +1,7 @@
+2022.10.4　堀北夏未
+
+GitとGitHubを使ってみる
+課題テキストファイル
+
+テキストと以下のURLページを参考に、Gitへのプッシュ作業を完了。
+参考：https://miya-system-works.com/blog/detail/vscode-github/
